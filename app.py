@@ -26,6 +26,7 @@ html, body, [class*="css"] {
 
 /* Header Section */
 .header-container {
+
     background-color: #1b263b;
     padding: 35px 20px;
     border-radius: 10px;
